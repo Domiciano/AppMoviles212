@@ -10,7 +10,7 @@
 
 
 <p><b>Grupos</b><p>
-<p><a href="https://docs.google.com/spreadsheets/d/1-tzb9PnWCu8uDyimxIRWJGJnseYB_BlNtub6ZTaIS8U/edit?usp=sharing">Grupos</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1Ke6v2C5wF7cS65WitzFgoL8jPTlLlUsjiB4pdDAidj0/edit?usp=sharing">Grupos</a></p>
 
 
 <b>Contenido del curso</b><br>
