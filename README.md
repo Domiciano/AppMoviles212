@@ -6,7 +6,7 @@
 
 
 <p><b>Integrantes</b></p>
-<p><a href="https://docs.google.com/presentation/d/18JquSMG70VpxgpmcuJmCwRFAti4kP9hW4t0cPVqcTAU/edit?usp=sharing">Integrantes</a></p>
+<p><a href="https://docs.google.com/presentation/d/1oWk0bfhXBQ1cGPRVCCXX2Ljhh3iAv9Spxq9R4NOLMrE/edit?usp=sharing">Integrantes</a></p>
 
 
 <p><b>Grupos</b><p>
