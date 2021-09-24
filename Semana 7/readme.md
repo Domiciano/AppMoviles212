@@ -1,3 +1,3 @@
 Link del repo <br>
 
-https://github.com/domic0620/AMS3
+https://github.com/domic0620/AMClaseS3
