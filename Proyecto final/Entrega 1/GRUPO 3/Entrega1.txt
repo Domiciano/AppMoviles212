@@ -1,0 +1,5 @@
+Enlace para el prototipo en Figma: https://www.figma.com/file/qjpQCCgwpUGThiznRDD0tA/Aplicaciones-2021-2?node-id=156%3A376
+
+Enlace a la carpeta compartida en drive (Donde están las historias de usuario): https://drive.google.com/drive/folders/101Twt61aOk6JSAPyUN3XrYHOHdRB0Ibh?usp=sharing
+
+Enlace al tablero del product backlog: https://lucid.app/lucidspark/bea06479-33b3-42d0-953a-dc176b52f38d/edit?beaconFlowId=2D8F8BCAD3ED1501&invitationId=inv_f4b37af9-0538-49ca-8e26-66651b05307a#
